@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Euphoria+Script&family=Oswald:wght@200..700&family=Rouge+Script&display=swap");
+
+.main-body {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 50px;
+  border-radius: 10px;
+  font-family: Oswald;
+  display: block;
+  text-align: center;
+  background-color: rgb(58, 58, 199);
+}
+.img{
+
+        max-width: auto;
+        height: 300px;
+        
+      
+}
+h3 {
+  font-family: Oswald;
+}
+.u-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.o-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+.main{
+  background-color: grey;
+}
+table,td{
+  border: 1px solid black;
+
+}
