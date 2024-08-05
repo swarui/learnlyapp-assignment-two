@@ -10,12 +10,10 @@
   text-align: center;
   background-color: rgb(58, 58, 199);
 }
-.img{
-
-        max-width: auto;
-        height: 200px;
-        
-      
+.img {
+    max-width: 100%;
+    height: auto;
+    max-height: 200px; /* Optional: Set a maximum height if needed */
 }
 h3 {
   font-family: Oswald;
