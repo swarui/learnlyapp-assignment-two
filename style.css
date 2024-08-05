@@ -13,7 +13,7 @@
 .img {
     max-width: 100%;
     height: auto;
-    max-height: 200px; /* Optional: Set a maximum height if needed */
+    max-height: 300px; /* Optional: Set a maximum height if needed */
 }
 h3 {
   font-family: Oswald;
